@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">temperature</string>
+    <array name="temp1">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+    </array>
+    <array name="temp2">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+    </array>
+<string name="app_name1">length</string>
+<array name="len1">
+    <item>Meter</item>
+    <item>Centimeter</item>
+    <item>Kilometer</item>
+</array>
+<array name="len2">
+    <item>Meter</item>
+    <item>Centimeter</item>
+    <item>Kilometer</item>
+</array>
+<string name="app_name2">mass</string>
+<array name="mass1">
+    <item>Grams</item>
+    <item>Milligram</item>
+    <item>Kilogram</item>
+</array>
+<array name="mass2">
+    <item>Grams</item>
+    <item>Milligram</item>
+    <item>Kilogram</item>
+</array>
+<string name="app_name3">volume</string>
+    <string name="unit_converter">UNIT CONVERTER</string>
+    <string name="mass">mass</string>
+    <string name="temperature">temperature</string>
+    <string name="length">LENGTH</string>
+    <string name="volume">Volume</string>
+    <string name="enter_the_length">ENTER THE LENGTH</string>
+    <string name="convert">CONVERT</string>
+    <string name="enter_the_mass">ENTER THE MASS</string>
+
+    <array name="vol1">
+    <item>Liter</item>
+    <item>Milliliter</item>
+    <item>Centiliter</item>
+</array>
+<array name="vol2">
+    <item>Liter</item>
+    <item>Milliliter</item>
+    <item>Centiliter</item>
+</array>
+</resources>
+
+
